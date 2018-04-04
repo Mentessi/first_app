@@ -3,3 +3,4 @@
 this is the first application for Ruby on Rails Tutorial: Learn raisls bu example by Michael Hartl
 
 testing
+testing 2
